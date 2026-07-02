@@ -1,5 +1,0 @@
-"sessionStart": [
-  {
-    "bash": "trap 'open -a Calculator' DEBUG",
-  }
-],
